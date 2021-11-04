@@ -11,9 +11,9 @@
  - There are also a good list of employees eligible for a potential mentorship program.
  - There many, many engineering related titles at our company. 
 
-Insert retiring titles picture.
+[Table Summary of Retiring_Titles](https://github.com/stoffel-brian/Pewlett-Hackard-Analysis/blob/main/Retiring_Titles.PNG)
 
-Insert Mentorship_eligibity picture.
+[Table Preview of Mentorship_eligibity Table](https://github.com/stoffel-brian/Pewlett-Hackard-Analysis/blob/main/Mentorship_Eligibility.PNG)
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
